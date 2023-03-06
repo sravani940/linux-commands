@@ -1,0 +1,24 @@
+1. ls    :list all the directories and files.
+       eg: ls ../linux, ../sai 
+2.mkdir  :create new directory with given name.
+       eg: mkdir sai
+3.cd     :change to directory.
+       eg:cd sai
+4.cat>filename :create file and we can write content in it and cntrl+D to save the content in the file.
+       eg:cat >file1
+          hello folks
+          welcome to cloudearl
+5.cat    :displays content of the file.
+       eg:cat file1
+          hello world
+          welocome to cloudearl
+6.ls *.txt :list all the files with given extensions.
+         eg:html.txt, hello.txt 
+7.clear   : clear the screen.
+8.vi      :text editor to write program.
+9.dd      :deletes entire line in text editor.
+10.q!     :quite the file forcefully.
+11.wq!    :save and quite the file forcefully.
+ 
+     
+          

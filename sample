@@ -19,6 +19,8 @@
 9.dd      :deletes entire line in text editor.
 10.q!     :quite the file forcefully.
 11.wq!    :save and quite the file forcefully.
+12.cp     :copy the files from one location to other.
+         eg:cp file1 file2
  
      
           

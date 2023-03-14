@@ -54,7 +54,6 @@
   235  git clone https://github.com/sravani940/linux-commands.git
   237  scp -i demo1-ec2-1.pem linux-commands ubuntu@52.91.117.21:/home/ubuntu/samplefile
   238  scp -i demo1-ec2-1.pem -r linux-commands ubuntu@52.91.117.21:/home/ubuntu/samplefile
-  239  history
   240  ssh -i "demo1-ec2-1.pem" ubuntu@52.91.117.21
   241  ssh -i "demo1-ec2-1.pem" ec2-user@54.147.166.61
   242  ssh -i ubuntu@52.91.117.21

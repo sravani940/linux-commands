@@ -46,7 +46,6 @@
   164  git init
   165  git add nani.txt
   166  git commit -m "first commit"
-  167  ls
   168  git status
 
 

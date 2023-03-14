@@ -21,10 +21,38 @@
 11.wq!    :save and quite the file forcefully.
 12.cp     :copy the files from one location to other.
          eg:cp file1 file2
+
+
+
+
+146  git --version
+  147  git add html.txt
+  148  git commit -m "updated"
+  149  git push -f orgin main
+  150  cat > nani
+  151  cat > nani.txt
+  152  cat nani.txt
+  153  git add nani.txt
+  154  git commit -m "updated"
+  155  git push -f orgin main
+  156  cat html.txt
+  157  git init
+  158  git add nani.txt
+  159  git commit -m "updated"
+  160  git push -f orgin main
+  161  git status
+  162  git add nani.txt
+  163  git status
+  164  git init
+  165  git add nani.txt
+  166  git commit -m "first commit"
+  167  ls
+  168  git status
+
+
  
 
   235  git clone https://github.com/sravani940/linux-commands.git
-  236  ls
   237  scp -i demo1-ec2-1.pem linux-commands ubuntu@52.91.117.21:/home/ubuntu/samplefile
   238  scp -i demo1-ec2-1.pem -r linux-commands ubuntu@52.91.117.21:/home/ubuntu/samplefile
   239  history

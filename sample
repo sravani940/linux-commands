@@ -73,7 +73,6 @@
   256  scp -r linux-commands ec2-user@54.209.119.177:/home/ec2-user
   257  ls
   258  scp -rp linux-commands ec2-user@54.209.119.177:/home/ec2-user
-  259  history
   260  ssh -i demo1-ec2-1.pem ec2-user@34.228.82.154
   261  ssh -i demo1-ec2-1.pem ec2-user@54.209.119.177
   262  rm -rm linux-commands
